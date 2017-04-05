@@ -19,14 +19,14 @@ Platform assembly: C:\Users\s171410\Documents\Emma_Programming\Complex Game Syst
 Loading C:\Users\s171410\Documents\Emma_Programming\Complex Game Systems\Assessment\GameArc\GameArc_v1.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: C:\Users\s171410\Documents\Emma_Programming\Complex Game Systems\Assessment\GameArc\GameArc_v1.0_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\s171410\Documents\Emma_Programming\Complex Game Systems\Assessment\GameArc\GameArc_v1.0_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.024 seconds
+- Completed reload, in  0.031 seconds
 Platform assembly: C:\Users\s171410\Documents\Emma_Programming\Complex Game Systems\Assessment\GameArc\GameArc_v1.0_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\s171410\Documents\Emma_Programming\Complex Game Systems\Assessment\GameArc\GameArc_v1.0_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.981587 ms
+UnloadTime: 0.874926 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 14d0 -> priority: 1 
-  Thread -> id: 2878 -> priority: 1 
+  Thread -> id: 26dc -> priority: 1 
+  Thread -> id: 2854 -> priority: 1 
